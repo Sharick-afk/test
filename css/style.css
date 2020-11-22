@@ -178,7 +178,7 @@ h1 {
   top: 0%;
   height: 19px;
   width: 19px;
-  background-image: url(./img/gift.png);
+  background-image: url(../img/gift.png);
 }
 
 .link_btn {
@@ -438,7 +438,7 @@ h1 {
   height: 35px;
   width: 35px;
   content: "";
-  background-image: url(./img/image21.png);
+  background-image: url(../img/image21.png);
 }
 
 .team_name:last-child {
@@ -457,7 +457,7 @@ h1 {
   height: 35px;
   width: 35px;
   content: "";
-  background-image: url(./img/image22team_logo.png);
+  background-image: url(../img/image22team_logo.png);
 }
 
 .time {
