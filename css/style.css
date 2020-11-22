@@ -457,7 +457,7 @@ h1 {
   height: 35px;
   width: 35px;
   content: "";
-  background-image: url(../img/image22team_logo.png);
+  background-image: url(../img/logoteam22.png);
 }
 
 .time {
@@ -963,6 +963,6 @@ h1 {
 
 .webp .gift_sum:before{ background-image: url(./img/gift.webp); }
 
-.webp .team_name:first-child:before{ background-image: url(./img/image21.webp); }
+.webp .team_name:first-child:before{ background-image: url(../img/image21.webp); }
 
-.webp .team_name:last-child:before{ background-image: url(./img/image22team_logo.webp); }
+.webp .team_name:last-child:before{ background-image: url(../img/logoteam22.webp); }
